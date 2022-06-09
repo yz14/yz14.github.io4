@@ -2,21 +2,20 @@
 #
 
 # Site settings
-title: Spectral
+title: YZ
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+  欢迎来到我的主页
+  这里是网站 [Homepage](https://yz14.github.io)
+owner: Yuan Zhen # or company name
+first_published: 2022 # if migrating another site, the year of your first publish
+email: 1163660010@qq.com
 baseurl: "/tm15" # the subpath of your site, e.g. /blog
-url: "https://yz14.github.io/tm15" # the base hostname & protocol for your site
+url: "https://yz14.github.io" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  twitter: https://yz14.github.io/tm9
+  github: https://yz14.github.io
+  linkedin-square: https://yz14.github.io/tm2
+  facebook-official: https://yz14.github.io/tm17
   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
