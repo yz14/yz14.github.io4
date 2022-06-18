@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: YZ
+title: 
 description: |
   
 owner: Yuan Zhen # or company name
@@ -10,12 +10,12 @@ first_published: 2022 # if migrating another site, the year of your first publis
 email: 1163660010@qq.com
 baseurl: "/tm15" # the subpath of your site, e.g. /blog
 url: "https://yz14.github.io" # the base hostname & protocol for your site
-social:
-  twitter: https://yz14.github.io/tm9
-  github: https://yz14.github.io
-  linkedin-square: https://yz14.github.io/tm2
-  facebook-official: https://yz14.github.io/tm17
-  google-plus-square: https://plus.google.com/u/0/+<username>
+# social:
+#   twitter: https://yz14.github.io/tm9
+#   github: https://yz14.github.io
+#   linkedin-square: https://yz14.github.io/tm2
+#   facebook-official: https://yz14.github.io/tm17
+#   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
