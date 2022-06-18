@@ -4,10 +4,15 @@
   <nav id="nav">
     <ul>
       <li class="special">
-        <a href="#menu" class="menuToggle"><span>Menu</span></a>
-        <div id="menu">
+        <a href="#菜单" class="menuToggle"><span>Menu</span></a>
+        <div id="菜单">
           <ul>
-            <li><a href="index.html">主页</a></li>
+            <li><a href="https://yz14.github.io">主页</a></li>
+            <li><a href="https://yz14.github.io/docs/front/">写在前面</a></li>
+            <li><a href="https://yz14.github.io/docs/psy">心理学笔记</a></li>
+            <li><a href="https://yz14.github.io/docs/ml">机器学习笔记</a></li>
+            <li><a href="https://yz14.github.io/docs/dl">深度学习笔记</a></li>
+            <li><a href="https://yz14.github.io/docs/zw">随笔</a></li>
             {% for my_page in site.pages %}
             {% if my_page.title %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
